@@ -165,9 +165,6 @@ h1 iperf -c h2
 
 ![Connectivity](screenshots/Connectivity.jpeg)
 
-### 🔹 Traffic Generation (iperf)
-
-![iperf](screenshots/mininet.jpeg)
 
 ### 🔹 Active Flow Example
 
