@@ -155,28 +155,28 @@ h1 iperf -c h2
 
 ### 🔹 Controller Startup
 
-![POX Controller](screenshots/POX.jpeg)
+![POX Controller](screenshots/pox.jpeg)
 
 ### 🔹 Mininet Cleanup
 
-![Cleanup](screenshots/sudo_mn_c.jpeg)
+![Cleanup](screenshots/sudo_mn.jpeg)
 
 ### 🔹 Network Connectivity (pingall)
 
-![Connectivity](screenshots/Connectivity.jpeg)
+![Connectivity](screenshots/test_connectivity.jpeg)
 
 
 ### 🔹 Active Flow Example
 
-![Active Flow](screenshots/Active.jpeg)
+![Active Flow](screenshots/active_flows.jpeg)
 
 ### 🔹 Unused Flow Example
 
-![Unused Flow](screenshots/Unused.jpeg)
+![Unused Flow](screenshots/unused_flows.jpeg)
 
 ### 🔹 Flow Summary and Statistics
 
-![Summary](screenshots/Summary.jpeg)
+![Summary](screenshots/summary.jpeg)
 
 ---
 
